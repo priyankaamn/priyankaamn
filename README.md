@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyankaamn
+- 👋 Hi, I’m @priyankaamn / Priyanka
 - 👀 I’m interested in Front-End development and UI/UX design! 
 - 🌱 I’m currently learning PHP, and content management! 
 - ⚡ Fun fact: I have 6 piercings!
